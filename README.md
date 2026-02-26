@@ -60,9 +60,7 @@ Message routing determines how messages are directed from producers to consumers
 
 ---
 
-## Practice: Event-Driven Messaging with RabbitMQ (10%)
-
-**Deadline:** 08.03.2026  
+## Practice: Event-Driven Messaging with RabbitMQ
 
 Event-driven architecture (EDA) allows systems to react to events in real time.  
 
