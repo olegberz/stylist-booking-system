@@ -7,4 +7,4 @@ Then ->
 ```bash
 docker-compose up -d --build
 ```
-to run database and message brokering, and the front-end + backend for a moment need to be deploy manually (deploy will be changed in one single docker-compose later)
+to run database and message brokering, and the front-end + backend for a moment need to be deployed manually (deploy will be changed in one single docker-compose later)
